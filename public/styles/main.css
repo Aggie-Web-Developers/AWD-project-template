@@ -190,19 +190,4 @@ label:focus,
 /***** /Home Page/ *****/
 
 /***** 404 Page *****/
-.notFound-banner {
-	background: url('../images/notFound3.jpg');
-	background-position: top;
-	background-repeat: no-repeat;
-	background-size: cover;
-	height: 60rem;
-	color: #fff;
-	overflow: hidden;
-	font-size: 1.25rem;
-	align-items: initial;
-}
-
-.notFound-header {
-	margin-top: 14rem;
-}
 /***** /404 Page/ *****/
